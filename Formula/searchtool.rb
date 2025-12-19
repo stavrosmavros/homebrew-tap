@@ -3,7 +3,7 @@ class Searchtool < Formula
   homepage "https://github.com/stavrosmavros/searchtool"
   url "https://github.com/stavrosmavros/searchtool/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
-  sha256 "a4d1eda719da7cd38c9a0af06e1890cb079c4b31da25cd5f64a9390b12b8b67e"
+  sha256 "8b25b0017951ab4955a4df027ee0c4abe2ea50c437cbcca4d123cdc8f94bf95c"
 
   depends_on "python@3.11"
   depends_on "ollama"
